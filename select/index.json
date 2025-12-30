@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "背中ごしにセンチメンタル",
+  "base_artist": "宮里久美",
+  "createdAt": "2025-12-30T15:51:33.646509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "背中ごしにセンチメンタル",
+      "artist": "宮里久美",
+      "has_synced": true,
+      "path": "select/01_背中ごしにセンチメンタル_宮里久美.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "背中ごしにセンチメンタル",
+      "artist": "Kumi Miyasato",
+      "has_synced": false,
+      "path": "select/02_背中ごしにセンチメンタル_Kumi_Miyasato.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "背中ごしにセンチメンタル",
+      "artist": "宮里久美",
+      "has_synced": true,
+      "path": "select/03_背中ごしにセンチメンタル_宮里久美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "背中ごしにセンチメンタル",
+      "artist": "宮里久美",
+      "has_synced": false,
+      "path": "select/04_背中ごしにセンチメンタル_宮里久美.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "背中ごしにセンチメンタル",
+      "artist": "Shirō Sagisu",
+      "has_synced": false,
+      "path": "select/05_背中ごしにセンチメンタル_Shirō_Sagisu.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "背中ごしにセンチメンタル",
+      "artist": "TOKIO23",
+      "has_synced": false,
+      "path": "select/06_背中ごしにセンチメンタル_TOKIO23.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "背中ごしにセンチメンタル",
+      "artist": "宮里 久美",
+      "has_synced": false,
+      "path": "select/pl_01_背中ごしにセンチメンタル_宮里_久美.txt"
+    }
+  ]
+}
